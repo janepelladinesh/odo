@@ -31,28 +31,28 @@
                         <div class="row">
                             <div class="col-lg-12">
                                 <?php
-                                 include 'fol/login.php';
+                                 include 'src/login.php';
                                 ?>
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-lg-12">
                             <?php
-                             include 'fol/register.php';
+                             include 'src/register.php';
                             ?>
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-lg-12">
                             <?php
-                             include 'fol/friends.php';
+                             include 'src/friends.php';
                             ?>
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-lg-12">
                             <?php
-                             include 'fol/tweets.php';
+                             include 'src/tweets.php';
                             ?>
                             </div>
                         </div>
