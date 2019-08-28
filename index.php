@@ -26,8 +26,8 @@
                         <hr>
                     </div>
                     <div class="panel-body">
-                        <input type=hidden id="hdnUserRegSvc" value="https://nodeapp-app-mongos.apps.openshift247.bluehatcloud.com ">
-                        <input type=hidden id="hdnTwitterSvc" value="http://twitterk-api-mongos.apps.openshift247.bluehatcloud.com ">
+                        <input type=hidden id="hdnUserRegSvc" value="https://userregsvcl-mongos.apps.openshift247.bluehatcloud.com">
+                        <input type=hidden id="hdnTwitterSvc" value="http://twitter-api-mongos.apps.openshift247.bluehatcloud.com ">
                         <div class="row">
                             <div class="col-lg-12">
                                 <?php
