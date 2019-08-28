@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
- include 'head.php';
+ include 'src/head.php';
 ?>
 <body ng-app="myApp">
     <div class="container" ng-controller="appController">
