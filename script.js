@@ -1,6 +1,7 @@
 /*  Dummy comments */
 var app = angular.module('myApp', []);
 app.controller('appController', function($scope,$http) { 
+	console.log("hey");
 	$scope.currentPage='register';
 	$scope.friends=[];
 	$scope.form={
